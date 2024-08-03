@@ -1,5 +1,5 @@
 **Age Calculator**
-This is javascript program an combination with HTML,CSS the program helps to Calculate the age of the user by getting an input of the brithdate 
+This is javascript program an combination with HTML,CSS the program helps to Calculate the age of the user by getting an input of the birthdate 
 
 **1. UI of the page before the results**
 
